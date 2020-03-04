@@ -1,2 +1,6 @@
+<<<<<<< HEAD
   
 python-3.8.2
+=======
+python-3.6.7
+>>>>>>> 7119a972ebbaaa43458e8e697c9da919b6c11f6d
